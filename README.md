@@ -5,6 +5,4 @@ Software Engineer by day. Dungeon Master by night. Always a coffee addict.
 
 **Custom webdevelopment** [dcreative.nl](https://www.dcreative.nl)  
 **Personal website** [dinandmentink.com](https://www.dinandmentink.com)  
-**Enquiries** info@dcreative.nl
-
-
+**Enquiries** dinand@dcreative.nl
